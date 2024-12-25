@@ -6,7 +6,7 @@ build-backend = "flit_core.buildapi"
 profile = "black"
 
 [project]
-name = "tikzplotlib"
+name = "tikzplotlib251224"
 authors = [{name = "Nico Schlömer", email = "nico.schloemer@gmail.com"}]
 description = "Convert matplotlib figures into TikZ/PGFPlots"
 readme = "README.md"
